@@ -1,1 +1,1 @@
-# Full-Page-Scrolling-Effects-
+# Full Page Scrolling Effects
